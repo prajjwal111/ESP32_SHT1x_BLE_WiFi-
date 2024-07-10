@@ -43,5 +43,9 @@ Connect the SHT1x sensor to the ESP32 as follows:
 [Watch the video demonstration](https://youtu.be/nnvIznbix3o)
 Here, in this channel you may found more videos related to it.
 
+Here are some screenshorts and pictures which are related to the work
+1st pic is the layout of circuit here is the link 
+![pic 1](https://github.com/prajjwal111/ESP32_SHT1x_BLE_WiFi-/assets/175052069/ce4e36d0-0b62-49d8-b80a-7d12fa311c56)
+
 
 
