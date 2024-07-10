@@ -41,6 +41,7 @@ Connect the SHT1x sensor to the ESP32 as follows:
 
 ## Demonstration Video
 [Watch the video demonstration](https://youtu.be/nnvIznbix3o)
+Here, in this channel you may found more videos related to it.
 
 
 
