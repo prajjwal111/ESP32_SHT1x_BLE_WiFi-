@@ -29,5 +29,15 @@ Connect the SHT1x sensor to the ESP32 as follows:
 - SHT1x VCC -> 3.3V
 - SHT1x GND -> GND
 
+## How to Use
+1. **Setup Hardware:**
+   - Connect the SHT1x sensor to the ESP32 as per the circuit diagram.
+2. **Upload Code:**
+   - Upload the provided code to the ESP32 using the Arduino IDE.
+3. **Connect with BLE:**
+   - Open the nRF Connect app and connect to the ESP32. The temperature and humidity values should be displayed in readable format.
+4. **Send WiFi Credentials:**
+   - Use the BLE client to send WiFi credentials to the ESP32 (this part is optional and requires additional setup).
+
 
 
