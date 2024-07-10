@@ -39,5 +39,8 @@ Connect the SHT1x sensor to the ESP32 as follows:
 4. **Send WiFi Credentials:**
    - Use the BLE client to send WiFi credentials to the ESP32 (this part is optional and requires additional setup).
 
+## Demonstration Video
+[Watch the video demonstration](https://www.youtube.com/link-to-your-video)
+
 
 
